@@ -1,0 +1,11 @@
+[[pages]]
+path = "app.py"
+name = "ML App"
+
+[[pages]]
+path = "pages/1_datasets.py"
+name = "Datasets"
+
+[[pages]]
+path = "pages/2_model.py"
+name = "Model"
